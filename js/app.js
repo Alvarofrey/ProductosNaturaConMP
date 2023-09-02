@@ -134,7 +134,7 @@ class BaseDeDatos {
   }
   
   class Producto {
-    constructor(id, nombre, precio,precioRevista, descripcion, imagen, categoria,preferenceId) {
+    constructor(id, nombre, precio,precioRevista, descripcion, imagen, categoria,preferenceId,enlace) {
       this.id = id;
       this.nombre = nombre;
       this.precio = precio;
@@ -142,7 +142,8 @@ class BaseDeDatos {
       this.descripcion = descripcion;
       this.imagen = imagen;
       this.categoria = categoria;
-      this.preferenceId = preferenceId
+      this.preferenceId = preferenceId;
+      this.enlace = enlace
   
     }
   }
@@ -216,7 +217,7 @@ class BaseDeDatos {
           <img class="img" src="img/${producto.imagen}" />
           <a 
                     class="btn boton__comprar"
-                    href="https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Productos%20De%20Natura%20"
+                    href="${producto.enlace}"
                     role="button"
                     id="Comprar"
                     >Comprar</a
@@ -229,7 +230,7 @@ class BaseDeDatos {
       // Agregar botón de pago de Mercado Pago
       const botonPago = document.createElement("script");
       // botonPago.src = "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js";
-      botonPago.dataset.preferenceId = producto.preferenceId; // Preference ID del producto actual
+      botonPago.dataset.href = producto.href; // Preference ID del producto actual
       botonPago.dataset.source = "button";
       document.getElementById(`botonPago${producto.id}`).appendChild(botonPago);
     }
