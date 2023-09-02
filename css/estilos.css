@@ -37,7 +37,7 @@ h5 {
     justify-content: space-evenly;
     padding: 10px;
     width: 175px;
-    height: 350px;
+    height: 480px;
     border-spacing: 5px 5px;
     border: 5px solid rgba(161, 161, 161, 0.281);
     text-align: center;
@@ -57,6 +57,17 @@ h5 {
     border: 5px solid rgba(161, 161, 161, 0.281);
     text-align: center;
 
+
+}
+.boton__comprar {
+    text-align: center;
+    /* background-color: black; */
+    background-color: #ff6913;
+    border-radius: 18px;
+    /* color: rgb(5, 117, 5); */
+    color: black;
+    font-size: 21px;
+    text-decoration: none;
 
 }
 
@@ -221,6 +232,29 @@ li:hover {
     margin: 0;
     padding: 0;
 }
+.Oferta{
+    font-size: larger;
+}
+@keyframes gift {
+
+    45% {
+        background-color: #27726c;
+    }
+
+}
+
+.gift {
+    color: black;
+    animation-name: gift;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+    animation-duration: 2s;
+    animation-delay: 0s;
+}
+.precioanterior {
+    text-decoration: line-through;
+}
+
 
 
 
