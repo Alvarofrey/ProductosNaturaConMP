@@ -26,13 +26,29 @@
     {
         "id":3,
         "nombre":"Tododia Anti-Transpirante Desodorante",
-        "precio":"Oferta $920",
-        "precioRevista":"Precio Revista $1.140",
+        "precio":"Oferta $1000",
+        "precioRevista":"Precio Revista $1.240",
         "descripcion":"Invisible,Avellana",
         "imagen":"antiavellana.png",
         "categoria":"Desodorantes",
         "preferenceId":"71235705-1f66c16b-e9f7-4dfe-8686-c7af1aec5e2c",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20Tododia%20Avellana%20De%20$920%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20Tododia%20Avellana%20De%20$1000%20De%20Natura"
+    
+
+
+
+
+    },
+    {
+        "id":29,
+        "nombre":"Tododia Anti-Transpirante Desodorante",
+        "precio":"Oferta $1000",
+        "precioRevista":"Precio Revista $1.240",
+        "descripcion":"Invisible, Accion Aclaradora",
+        "imagen":"TododiaAclarar.png",
+        "categoria":"Desodorantes",
+        "preferenceId":"71235705-1f66c16b-e9f7-4dfe-8686-c7af1aec5e2c",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20Tododia%20Aclarador%20De%20$1000%20De%20Natura"
     
 
 
@@ -42,13 +58,13 @@
     {
         "id":20,
         "nombre":"Erva Doce Anti-Transpirante Desodorante",
-        "precio":"Oferta $920",
-        "precioRevista":"Precio Revista $1.140",
+        "precio":"Oferta $1000",
+        "precioRevista":"Precio Revista $1.240",
         "descripcion":"Invisible",
         "imagen":"ervadoceAntiInvisible.png",
         "categoria":"Desodorantes",
         "preferenceId":"71235705-1f66c16b-e9f7-4dfe-8686-c7af1aec5e2c",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20ErvaDoce%20de%20$920%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20ErvaDoce%20de%20$1000%20De%20Natura"
     
 
 
@@ -99,14 +115,14 @@
     },
     {
         "id":7,
-        "nombre":"Ekos Perfume Maracuyà",
-        "precio":"Oferta $7.700",
-        "precioRevista":"Precio Revista $9.700",
-        "descripcion":"150ml,Leve,Cedro,Frutal",
-        "imagen":"ekosmaracuyá.png",
+        "nombre":"Biografia Clasico Femenino",
+        "precio":"Oferta $10.200",
+        "precioRevista":"Precio Revista $17.200",
+        "descripcion":"100ml Moderado,Durazno Geranio Hojas de Violetas,Frutal",
+        "imagen":"BiografiaFem.png",
         "categoria":"Perfumes",
         "preferenceId":"71235705-47967287-5ccb-443e-8e26-9babe67524c6",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Ekos%20Maracuyá%20De%20$7.700%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Biografia%20Clasico%20De%20$10.200%20De%20Natura"
     
 
 
@@ -140,6 +156,20 @@
 
     },
     {
+        "id":25,
+        "nombre":"Humor A Dois",
+        "precio":"Oferta $10.400",
+        "precioRevista":"Precio Revista $15.345",
+        "descripcion":"75ml,Moderado Pimienta Negra Amaderado Ambar",
+        "imagen":"HumorDois.png",
+        "categoria":"Perfumes",
+        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Humor%20Dois%Masculino%20de%20$10.400%20De%20Natura"
+    
+
+
+    },
+    {
         "id":22,
         "nombre":"Kaiak Vital Masculino",
         "precio":"Oferta $10.000",
@@ -149,6 +179,20 @@
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
         "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%Masculino%20de%20$10.000%20De%20Natura"
+    
+
+
+    },
+    {
+        "id":25,
+        "nombre":"Kaiak Oceano Masculino",
+        "precio":"Oferta $12.400",
+        "precioRevista":"Precio Revista $16.400",
+        "descripcion":"100ml,Moderado Algas Marinas Pataqueria Acuoso",
+        "imagen":"KaiakOceano.png",
+        "categoria":"Perfumes",
+        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Oceano%Masculino%20de%20$12.400%20De%20Natura"
     
 
 
@@ -170,13 +214,27 @@
     {
         "id":10,
         "nombre":"Tododia Crema Pies",
-        "precio":"Oferta $1.270",
-        "precioRevista":"Precio Revista $1.370",
+        "precio":"Oferta $1.400",
+        "precioRevista":"Precio Revista $2.430",
         "descripcion":"50ml,Cacao Linaza,Limon",
         "imagen":"cremapieslimon.png",
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20De%20Pies%20Tododia%20de%20$1.270%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20De%20Pies%20Tododia%20de%20$1.400%20De%20Natura"
+
+
+
+    },
+    {
+        "id":30,
+        "nombre":"Tododia Crema Manos Y Cuello",
+        "precio":"Oferta $2.000",
+        "precioRevista":"Precio Revista $3.230",
+        "descripcion":"50ml,Nuez Pecan,Cacao,Prebiotico",
+        "imagen":"TododiaManos.png",
+        "categoria":"Cremas",
+        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Mano%20Y%20Cuello%20Tododia%20de%20$2.000%20De%20Natura"
 
 
 
