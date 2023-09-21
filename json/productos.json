@@ -1,30 +1,5 @@
-[     {
-    "id":1,
-    "nombre":"Jabones Tododia",
-    "precio":"Oferta $1.949",
-    "precioRevista":"Precio Revista $2.165",
-    "descripcion":"5u 90g , Vegetal,Romero y Salvia",
-    "imagen":"jabonromeroysalvia2.png",
-    "categoria":"Jabones",
-    "preferenceId":"191533156-b70b8ed3-f935-4760-817f-9df9b3a3bf74",
-    "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Jabon%20Tododia%20De%20Salvia%20De%20$1.949%20De%20Natura"
-
-   },
-    {
-        "id":2,
-        "nombre":"Jabones Tododia",
-        "precio":"Oferta $2.100",
-        "precioRevista":"Precio Revista $2.380",
-        "descripcion":"4u, Mandarina y Frambuesa",
-        "imagen":"jabonfeliz.png",
-        "categoria":"Jabones",
-        "preferenceId":"71235705-353247cd-171e-41e5-b293-9d44d84d8756",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Jabon%20TodoDia%20Feliz%20Dia%20de%20$2100%20De%20Natura"
-
-
-    },
-    {
-        "id":3,
+[   {
+        "id":1,
         "nombre":"Tododia Anti-Transpirante Desodorante",
         "precio":"Oferta $1000",
         "precioRevista":"Precio Revista $1.240",
@@ -40,39 +15,7 @@
 
     },
     {
-        "id":29,
-        "nombre":"Tododia Anti-Transpirante Desodorante",
-        "precio":"Oferta $1000",
-        "precioRevista":"Precio Revista $1.240",
-        "descripcion":"Invisible, Accion Aclaradora",
-        "imagen":"TododiaAclarar.png",
-        "categoria":"Desodorantes",
-        "preferenceId":"71235705-1f66c16b-e9f7-4dfe-8686-c7af1aec5e2c",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20Tododia%20Aclarador%20De%20$1000%20De%20Natura"
-    
-
-
-
-
-    },
-    {
-        "id":20,
-        "nombre":"Erva Doce Anti-Transpirante Desodorante",
-        "precio":"Oferta $1000",
-        "precioRevista":"Precio Revista $1.240",
-        "descripcion":"Invisible",
-        "imagen":"ervadoceAntiInvisible.png",
-        "categoria":"Desodorantes",
-        "preferenceId":"71235705-1f66c16b-e9f7-4dfe-8686-c7af1aec5e2c",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20ErvaDoce%20de%20$1000%20De%20Natura"
-    
-
-
-
-
-    },
-    {
-        "id":4,
+        "id":2,
         "nombre":"Kaiak Clásico Perfume Femenino",
         "precio":"Oferta $11.600 ",
         "precioRevista":"Precio Revista $13.690",
@@ -86,21 +29,7 @@
 
     },
     {
-        "id":5,
-        "nombre":"Kaiak  Aventura Perfume Femenino",
-        "precio":"Oferta $11.600 ",
-        "precioRevista":"Precio Revista $13.690",
-        "descripcion":"100ml,Moderada,Floral Notas Marinas",
-        "imagen":"kaiakaventura.png",
-        "categoria":"Perfumes",
-        "preferenceId":"71235705-6fa5d165-6fdb-47a4-8da3-8686e2c2a536",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%Aventura%20(Fem)%20de%20$11.600%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":6,
+        "id":3,
         "nombre":"Aguas Colonia (Femenino)",
         "precio":"Oferta $4900",
         "precioRevista":"Precio Revista $5.715",
@@ -114,7 +43,7 @@
 
     },
     {
-        "id":7,
+        "id":4,
         "nombre":"Biografia Clasico Femenino",
         "precio":"Oferta $10.200",
         "precioRevista":"Precio Revista $17.200",
@@ -128,7 +57,7 @@
 
     },
     {
-        "id":8,
+        "id":5,
         "nombre":"Tododia Body Splash Femenino",
         "precio":"Oferta $5000",
         "precioRevista":"Precio Revista $6.300",
@@ -142,7 +71,7 @@
 
     },
     {
-        "id":21,
+        "id":6,
         "nombre":"Humor Liberta UNISEX",
         "precio":"Oferta $9000",
         "precioRevista":"Precio Revista $12.810",
@@ -156,7 +85,7 @@
 
     },
     {
-        "id":25,
+        "id":7,
         "nombre":"Humor A Dois Masculino",
         "precio":"Oferta $10.400",
         "precioRevista":"Precio Revista $15.345",
@@ -170,7 +99,7 @@
 
     },
     {
-        "id":22,
+        "id":8,
         "nombre":"Kaiak Vital Masculino",
         "precio":"Oferta $10.000",
         "precioRevista":"Precio Revista $13.690",
@@ -184,7 +113,7 @@
 
     },
     {
-        "id":25,
+        "id":9,
         "nombre":"Kaiak Oceano Masculino",
         "precio":"Oferta $12.400",
         "precioRevista":"Precio Revista $16.400",
@@ -193,20 +122,6 @@
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
         "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Oceano%Masculino%20de%20$12.400%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":9,
-        "nombre":"Tododia Crema Corporal",
-        "precio":"Oferta $3.500",
-        "precioRevista":"Precio Revista $4.070",
-        "descripcion":"400ml,Nuez Pecan Cacao Linaza,Prebiotico",
-        "imagen":"cremanuez.png",
-        "categoria":"Cremas",
-        "preferenceId":"71235705-dc42405c-6668-445e-8eb7-3f9f351615cb",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Corporal%20Tododia%20de%20$3.500%20De%20Natura"
     
 
 
@@ -225,78 +140,8 @@
 
 
     },
-    {
-        "id":30,
-        "nombre":"Tododia Crema Manos Y Cuello",
-        "precio":"Oferta $2.000",
-        "precioRevista":"Precio Revista $3.230",
-        "descripcion":"50ml,Nuez Pecan,Cacao,Prebiotico",
-        "imagen":"TododiaManos.png",
-        "categoria":"Cremas",
-        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Mano%20Y%20Cuello%20Tododia%20de%20$2.000%20De%20Natura"
-
-
-
-    },
-    {
-        "id":11,
-        "nombre":"Jabones Erva Doce",
-        "precio":"Oferta $2.600",
-        "precioRevista":"Precio Revista $2.900",
-        "descripcion":"4u 90g, Vegetal, Surtidos",
-        "imagen":"jaboneserva2.png",
-        "categoria":"Jabones",
-        "preferenceId":"191533156-46bc6a2c-f55d-45ee-8562-b31ddc0157e6",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Jabon%20ErvaDoce%20de%20$2.600%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":12,
-        "nombre":"Jabones Ekos",
-        "precio":"Oferta $2.750",
-        "precioRevista":"Precio Revista $3.075",
-        "descripcion":"4u 100g Exfoliantes, Acaí  Andiroba Pitanga Maracuyá",
-        "imagen":"jabonesekos2.png",
-        "categoria":"Jabones",
-        "preferenceId":"191533156-878bcbbc-cb5f-4574-8f3c-115aa7a1f14e",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Jabon%20Ekos%20de%20$2.750%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":13,
-        "nombre":"Jabones Tododia",
-        "precio":"Oferta $1.949",
-        "precioRevista":"Precio Revista $2.165",
-        "descripcion":"5u 90g , Vegetal,Macadamia",
-        "imagen":"jabonmacadamia2.png",
-        "categoria":"Jabones",
-        "preferenceId":"191533156-ca796a9f-5216-4764-b601-80965c0903ae",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Jabon%20Tododia%20de%20Macadamia%20De%20$1.949%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":15,
-        "nombre":"Jabones Tododia",
-        "precio":"Oferta $900",
-        "precioRevista":"Precio Revista $1.050",
-        "descripcion":"2u 80g c/u,Masajeador, Vegetal,Manzanilla y Lavanda",
-        "imagen":"TododiaJabonMasajeador.png",
-        "categoria":"Jabones",
-        "preferenceId":"",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Jabon%20Tododia%20Masajeador%20de%20$900%20De%20Natura"
-    
-
-
-    },
      {
-        "id":16,
+        "id":11,
         "nombre":"Lumina Shampoo",
         "precio":"Oferta $1.345",
         "precioRevista":"Precio Revista $1.645",
@@ -309,7 +154,7 @@
 
     },
     {
-        "id":17,
+        "id":12,
         "nombre":"Plant Acondicionador",
         "precio":"Oferta $1.100",
         "precioRevista":"Precio Revista $1.300",
@@ -323,7 +168,7 @@
 
     },
     {
-        "id":18,
+        "id":13,
         "nombre":"Plant Acondicionador",
         "precio":"Oferta $1.100",
         "precioRevista":"Precio Revista $1.300",
@@ -337,7 +182,7 @@
 
     },
     {
-        "id":19,
+        "id":14,
         "nombre":"Plant Acondicionador",
         "precio":"Oferta $1.100",
         "precioRevista":"Precio Revista $1.300",
