@@ -1,13 +1,29 @@
 [   {
         "id":1,
         "nombre":"Tododia Anti-Transpirante Desodorante",
-        "precio":"Oferta $1000",
-        "precioRevista":"Precio Revista $1.240",
+        "precio":"Oferta $1100",
+        "precioRevista":"Precio Revista $1.340",
         "descripcion":"Invisible,Avellana",
         "imagen":"antiavellana.png",
         "categoria":"Desodorantes",
         "preferenceId":"71235705-1f66c16b-e9f7-4dfe-8686-c7af1aec5e2c",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20Tododia%20Avellana%20De%20$1000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20Tododia%20Avellana%20De%20$1100%20De%20Natura"
+    
+
+
+
+
+    },
+    {
+        "id":20,
+        "nombre":"Tododia Anti-Transpirante Desodorante",
+        "precio":"Oferta $1100",
+        "precioRevista":"Precio Revista $1.340",
+        "descripcion":"Flor de Lis, Roll-On",
+        "imagen":"DesoFlor.png",
+        "categoria":"Desodorantes",
+        "preferenceId":"71235705-1f66c16b-e9f7-4dfe-8686-c7af1aec5e2c",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20Tododia%20Flor%20De%20Lis%20De%20$1100%20De%20Natura"
     
 
 
@@ -99,6 +115,20 @@
 
     },
     {
+        "id":7,
+        "nombre":"Ekos Maracuya (Femenino)",
+        "precio":"Oferta $8.000",
+        "precioRevista":"Precio Revista $11.600",
+        "descripcion":"150ml,Leve,Maracuyá Cedro Musk",
+        "imagen":"EkosMaracuya.png",
+        "categoria":"Perfumes",
+        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Ekos%20Maracuyá%20de%20$8.000%20De%20Natura"
+    
+
+
+    },
+    {
         "id":8,
         "nombre":"Kaiak Vital Masculino",
         "precio":"Oferta $10.000",
@@ -127,12 +157,40 @@
 
     },
     {
+        "id":21,
+        "nombre":"Tododia Jabones",
+        "precio":"Oferta $2.300",
+        "precioRevista":"Precio Revista $2.500",
+        "descripcion":"5u/90g c/u, Flor de Lis",
+        "imagen":"JabonFlor.png",
+        "categoria":"Jabones",
+        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20De%Flor%20De%20Lis%20De%20$2.300%20De%20Natura"
+    
+
+
+    },
+    {
+        "id":21,
+        "nombre":"Tododia Jabones",
+        "precio":"Oferta $2.300",
+        "precioRevista":"Precio Revista $2.500",
+        "descripcion":"5u/90g c/u, Frutas Rojas",
+        "imagen":"JabonFrutas.png",
+        "categoria":"Jabones",
+        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20De%Frutas%20Rojas%%20De%20$2.300%20De%20Natura"
+    
+
+
+    },
+    {
         "id":10,
-        "nombre":"Tododia Crema Pies",
-        "precio":"Oferta $1.400",
-        "precioRevista":"Precio Revista $2.430",
-        "descripcion":"50ml,Cacao Linaza,Limon",
-        "imagen":"cremapieslimon.png",
+        "nombre":"Tododia Crema Para el Cuerpo",
+        "precio":"Oferta $3.200",
+        "precioRevista":"Precio Revista $3.600",
+        "descripcion":"400ml,(Repuesto),Avellana y Casis",
+        "imagen":"RepuestoCremaAv.png",
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
         "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20De%20Pies%20Tododia%20de%20$1.400%20De%20Natura"
@@ -143,26 +201,52 @@
      {
         "id":11,
         "nombre":"Lumina Shampoo",
-        "precio":"Oferta $1.345",
-        "precioRevista":"Precio Revista $1.645",
+        "precio":"Oferta $2.000",
+        "precioRevista":"Precio Revista $2.745",
         "descripcion":"300ml,Repuesto,Lisos Naturales,Purifica",
         "imagen":"luminashampoo.png",
         "categoria":"Shampoos & Acondicionadores",
         "preferenceId":"71235705-1a02ef73-cdb7-4ab8-b7a6-fe54d4eff0fd",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20Lumina%20de%20Lisos%20$1.345%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20Lumina%20de%20Lisos%20$1.445%20De%20Natura"
+    
+
+    },
+    {
+        "id":11,
+        "nombre":"Lumina Shampoo",
+        "precio":"Oferta $2.000",
+        "precioRevista":"Precio Revista $2.745",
+        "descripcion":"300ml,Repuesto,Estimulante AntiCaída y Crecimiento",
+        "imagen":"LuminaAntiCaida.png",
+        "categoria":"Shampoos & Acondicionadores",
+        "preferenceId":"71235705-1a02ef73-cdb7-4ab8-b7a6-fe54d4eff0fd",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20Shampoo%20Lumina%20de%20AntiCaida%20Y%20Crecimiento%20$2.000%20De%20Natura"
+    
+
+    },
+    {
+        "id":11,
+        "nombre":"Lumina Acondionador",
+        "precio":"Oferta $2.000",
+        "precioRevista":"Precio Revista $2.745",
+        "descripcion":"300ml,Repuesto,Estimulante AntiCaída y Crecimiento",
+        "imagen":"LuminaAnti.png",
+        "categoria":"Shampoos & Acondicionadores",
+        "preferenceId":"71235705-1a02ef73-cdb7-4ab8-b7a6-fe54d4eff0fd",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20Acondicionador%20Lumina%20de%20AntiCaida%20Y%20Crecimiento%20$2.000%20De%20Natura"
     
 
     },
     {
         "id":12,
         "nombre":"Plant Acondicionador",
-        "precio":"Oferta $1.100",
-        "precioRevista":"Precio Revista $1.300",
+        "precio":"Oferta $1.500",
+        "precioRevista":"Precio Revista $1.800",
         "descripcion":"300ml,Repuesto de Acondicionador, Liso y Suelto ,Queratina Vegetal",
         "imagen":"plantlisos.png",
         "categoria":"Shampoos & Acondicionadores",
         "preferenceId":"71235705-26807a67-a6d7-42b4-8fb0-96090c7430f",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20de%20Acondicionador%20Plant%20de%20Liso%20Y%20Suelto%20De%20$1.100%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20de%20Acondicionador%20Plant%20de%20Liso%20Y%20Suelto%20De%20$1.500%20De%20Natura"
     
 
 
@@ -170,13 +254,13 @@
     {
         "id":13,
         "nombre":"Plant Acondicionador",
-        "precio":"Oferta $1.100",
-        "precioRevista":"Precio Revista $1.300",
+        "precio":"Oferta $1.500",
+        "precioRevista":"Precio Revista $1.800",
         "descripcion":"300ml,Repuesto de Acondicionador, Revitalizacion Post-Quimica, Aceite de Nuez Pecan",
         "imagen":"plantrevita.png",
         "categoria":"Shampoos & Acondicionadores",
         "preferenceId":"71235705-1ffda35f-fbb3-4c0f-a007-b221c9564fc1",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20de%20Acondicionador%20Plant%20de%20PostQuimica%20de%20$1.100%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20de%20Acondicionador%20Plant%20de%20PostQuimica%20de%20$1.500%20De%20Natura"
     
 
 
@@ -184,13 +268,13 @@
     {
         "id":14,
         "nombre":"Plant Acondicionador",
-        "precio":"Oferta $1.100",
-        "precioRevista":"Precio Revista $1.300",
+        "precio":"Oferta $1.500",
+        "precioRevista":"Precio Revista $1.800",
         "descripcion":"300ml,Repuesto de Acondicionador, Hidrataciòn Reparadora, BioaminoÀcidos de Quinoa",
         "imagen":"planthidratacion.png",
         "categoria":"Shampoos & Acondicionadores",
         "preferenceId":"71235705-1e31b1da-2b64-4ec2-98da-94287aab04e4",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20de%20Acondicionador%20Plant%20de%20Hidratacion%20de%20$1.100%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20de%20Acondicionador%20Plant%20de%20Hidratacion%20de%20$1.500%20De%20Natura"
     
 
 
