@@ -1,19 +1,4 @@
-[   {
-        "id":1,
-        "nombre":"Tododia Anti-Transpirante Desodorante",
-        "precio":"Oferta $1100",
-        "precioRevista":"Precio Revista $1.340",
-        "descripcion":"Invisible,Avellana",
-        "imagen":"antiavellana.png",
-        "categoria":"Desodorantes",
-        "preferenceId":"71235705-1f66c16b-e9f7-4dfe-8686-c7af1aec5e2c",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20Tododia%20Avellana%20De%20$1100%20De%20Natura"
-    
-
-
-
-
-    },
+[   
     {
         "id":20,
         "nombre":"Tododia Anti-Transpirante Desodorante",
@@ -59,20 +44,6 @@
 
     },
     {
-        "id":4,
-        "nombre":"Biografia Clasico Femenino",
-        "precio":"Oferta $10.200",
-        "precioRevista":"Precio Revista $17.200",
-        "descripcion":"100ml Moderado,Durazno Geranio Hojas de Violetas,Frutal",
-        "imagen":"BiografiaFem.png",
-        "categoria":"Perfumes",
-        "preferenceId":"71235705-47967287-5ccb-443e-8e26-9babe67524c6",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Biografia%20Clasico%20De%20$10.200%20De%20Natura"
-    
-
-
-    },
-    {
         "id":5,
         "nombre":"Tododia Body Splash Femenino",
         "precio":"Oferta $5000",
@@ -86,20 +57,7 @@
 
 
     },
-    {
-        "id":6,
-        "nombre":"Humor Liberta UNISEX",
-        "precio":"Oferta $9000",
-        "precioRevista":"Precio Revista $12.810",
-        "descripcion":"75ml,Moderado,Frutal Acordes Amaderados",
-        "imagen":"HumorLiberta.png",
-        "categoria":"Perfumes",
-        "preferenceId":"",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Liberta%20Unisex%20de%20$9.000%20De%20Natura"
-    
 
-
-    },
     {
         "id":7,
         "nombre":"Humor A Dois Masculino",
@@ -110,20 +68,6 @@
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
         "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Humor%20Dois%Masculino%20de%20$10.400%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":7,
-        "nombre":"Ekos Maracuya (Femenino)",
-        "precio":"Oferta $8.000",
-        "precioRevista":"Precio Revista $11.600",
-        "descripcion":"150ml,Leve,Maracuyá Cedro Musk",
-        "imagen":"EkosMaracuya.png",
-        "categoria":"Perfumes",
-        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Ekos%20Maracuyá%20de%20$8.000%20De%20Natura"
     
 
 
