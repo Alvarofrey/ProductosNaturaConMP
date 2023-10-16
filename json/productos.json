@@ -129,6 +129,20 @@
 
     },
     {
+        "id":1,
+        "nombre":"Jabones Ekos",
+        "precio":"Oferta $3.100",
+        "precioRevista":"Precio Revista $3.500",
+        "descripcion":"6u/25g c/u, 3/u Pitanga ,3/u Pitanga Preta",
+        "imagen":"EkosJabonesPreta.png",
+        "categoria":"Jabones",
+        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Ekos%20Preta%20De%20$3.100%20De%20Natura"
+    
+
+
+    },
+    {
         "id":10,
         "nombre":"Tododia Crema Para el Cuerpo",
         "precio":"Oferta $3.200",
