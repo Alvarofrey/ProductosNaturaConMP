@@ -1,21 +1,5 @@
 [   
     {
-        "id":20,
-        "nombre":"Tododia Anti-Transpirante Desodorante",
-        "precio":"Oferta $1100",
-        "precioRevista":"Precio Revista $1.340",
-        "descripcion":"Flor de Lis, Roll-On",
-        "imagen":"DesoFlor.png",
-        "categoria":"Desodorantes",
-        "preferenceId":"71235705-1f66c16b-e9f7-4dfe-8686-c7af1aec5e2c",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Anti-Transpirante%20Tododia%20Flor%20De%20Lis%20De%20$1100%20De%20Natura"
-    
-
-
-
-
-    },
-    {
         "id":2,
         "nombre":"Kaiak Clásico Perfume Femenino",
         "precio":"Oferta $11.600 ",
@@ -30,34 +14,19 @@
 
     },
     {
-        "id":3,
-        "nombre":"Aguas Colonia (Femenino)",
-        "precio":"Oferta $4900",
-        "precioRevista":"Precio Revista $5.715",
-        "descripcion":"150ml,Frutas Tropicales,Jazmin",
-        "imagen":"coloniaaguas.png",
+        "id":1,
+        "nombre":"Kriska Perfume Femenino",
+        "precio":"Oferta $4.000 ",
+        "precioRevista":"Precio Revista $7.690",
+        "descripcion":"25ml, Moderada  Dulce Floral Vainilla y Madera",
+        "imagen":"Kriska.png",
         "categoria":"Perfumes",
-        "preferenceId":"71235705-4651135d-26ea-4590-b410-2bd9e1d5b8c9",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Colonia%20Aguas%20de%20$4.900%20De%20Natura"
+        "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%Clásico%20(Fem)%20de%20$4.000%20De%20Natura"
     
 
 
     },
-    {
-        "id":5,
-        "nombre":"Tododia Body Splash Femenino",
-        "precio":"Oferta $5000",
-        "precioRevista":"Precio Revista $6.300",
-        "descripcion":"200ml, Leve Fresca Limon Flores",
-        "imagen":"bodysplashlimon.png",
-        "categoria":"Perfumes",
-        "preferenceId":"71235705-34625ec8-4c0d-4104-8250-5d9ad212cd3f",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Body%20Splash%20de%20$5.000%20De%20Natura"
-    
-
-
-    },
-
     {
         "id":7,
         "nombre":"Humor A Dois Masculino",
@@ -152,6 +121,34 @@
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
         "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20De%20Pies%20Tododia%20de%20$1.400%20De%20Natura"
+
+
+
+    },
+    {
+        "id":19,
+        "nombre":"Tododia Crema Para el Cuerpo",
+        "precio":"Oferta $3.200",
+        "precioRevista":"Precio Revista $3.600",
+        "descripcion":"400ml,(Repuesto),Te de Manzanilla y Lavanda",
+        "imagen":"CremaManzanilla.png",
+        "categoria":"Cremas",
+        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20De%20Pies%20Tododia%20de%20$1.400%20De%20Natura"
+
+
+
+    },
+    {
+        "id":29,
+        "nombre":"Ekos Crema Para Manos",
+        "precio":"Oferta $2.900",
+        "precioRevista":"Precio Revista $3.900",
+        "descripcion":"75g, Acaí",
+        "imagen":"CremaManosAcai.png",
+        "categoria":"Cremas",
+        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Manos%20Ekos%20de%20$2.900%20De%20Natura"
 
 
 
