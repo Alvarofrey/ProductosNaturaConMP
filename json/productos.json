@@ -15,20 +15,47 @@
     {
         "id":2,
         "nombre":"Kaiak Clásico Perfume Femenino",
-        "precio":"Oferta $12.000 ",
+        "precio":"Oferta $13.000 ",
         "precioRevista":"Precio Revista $16.400",
         "descripcion":"100ml, Moderada Citrica Rosa",
         "imagen":"kaiakfem.png",
         "categoria":"Perfumes",
         "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%Clásico%20(Fem)%20de%20$12.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%Clásico%20(Fem)%20de%20$13.000%20De%20Natura"
     
 
 
     },
+        {
+        "id":3,
+        "nombre":"Pitanga Preta (Ekos) Perfume Femenino",
+        "precio":"Oferta $13.000 ",
+        "precioRevista":"Precio Revista $17.400",
+        "descripcion":"150ml,Leve Floral Limon Pomelo Rosa y Musk",
+        "imagen":"PitangaPreta.png",
+        "categoria":"Perfumes",
+        "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20PitangaPreta%20(Fem)%20de%20$13.000%20De%20Natura"
     
+
+
+    },
     {
-        "id":7,
+        "id":4,
+        "nombre":"Kaiak Vital Femenino",
+        "precio":"Oferta $14.000",
+        "precioRevista":"Precio Revista $22.000",
+        "descripcion":"100ml,Moderado Acorde Marino Lavanda Sándalo Jengibre Piper",
+        "imagen":"KaiakVital.png",
+        "categoria":"Perfumes",
+        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%Femenino%20de%20$14.000%20De%20Natura"
+    
+
+
+    },
+    {
+        "id":5,
         "nombre":"Humor A Dois Masculino",
         "precio":"Oferta $10.400",
         "precioRevista":"Precio Revista $15.345",
@@ -42,36 +69,36 @@
 
     },
     {
-        "id":8,
+        "id":6,
         "nombre":"Kaiak Vital Masculino",
-        "precio":"Oferta $12.000",
-        "precioRevista":"Precio Revista $16.400",
+        "precio":"Oferta $13.000",
+        "precioRevista":"Precio Revista $21.000",
         "descripcion":"100ml,Moderado Algas Marinas Jengibre Piper",
         "imagen":"KaiakvitalMasculino.png",
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%Masculino%20de%20$12.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%Masculino%20de%20$13.000%20De%20Natura"
     
 
 
     },
     {
-        "id":9,
+        "id":7,
         "nombre":"Kaiak Oceano Masculino",
-        "precio":"Oferta $12.000",
-        "precioRevista":"Precio Revista $16.400",
+        "precio":"Oferta $13.000",
+        "precioRevista":"Precio Revista $21.400",
         "descripcion":"100ml,Moderado Algas Marinas Pataqueria Acuoso",
         "imagen":"KaiakOceano.png",
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Oceano%Masculino%20de%20$12.400%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Oceano%Masculino%20de%20$13.000%20De%20Natura"
     
 
 
     },
     {
-        "id":21,
-        "nombre":"Tododia Jabones",
+        "id":8,
+        "nombre":"Jabones (Tododia)",
         "precio":"Oferta $2.300",
         "precioRevista":"Precio Revista $2.500",
         "descripcion":"5u/90g c/u, Flor de Lis",
@@ -84,8 +111,8 @@
 
     },
     {
-        "id":31,
-        "nombre":"Tododia Jabones",
+        "id":9,
+        "nombre":"Jabones (Tododia)",
         "precio":"Oferta $2.300",
         "precioRevista":"Precio Revista $2.500",
         "descripcion":"5u/90g c/u, Frutas Rojas",
@@ -97,8 +124,22 @@
 
 
     },
+     {
+        "id":10,
+        "nombre":"Jabones (Tododia)",
+        "precio":"Oferta $2.300",
+        "precioRevista":"Precio Revista $2.500",
+        "descripcion":"5u/90g c/u, Mango rosa y Coco",
+        "imagen":"JabonMango.png",
+        "categoria":"Jabones",
+        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20De%Frutas%20Rojas%%20De%20$2.300%20De%20Natura"
+    
+
+
+    },
     {
-        "id":2,
+        "id":11,
         "nombre":"Jabones Ekos",
         "precio":"Oferta $3.100",
         "precioRevista":"Precio Revista $3.500",
@@ -112,8 +153,8 @@
 
     },
     {
-        "id":10,
-        "nombre":"Tododia Crema Para el Cuerpo",
+        "id":12,
+        "nombre":"Crema Para el Cuerpo (Tododia)",
         "precio":"Oferta $3.200",
         "precioRevista":"Precio Revista $3.600",
         "descripcion":"400ml,(Repuesto),Avellana y Casis",
@@ -126,8 +167,8 @@
 
     },
     {
-        "id":19,
-        "nombre":"Tododia Crema Para el Cuerpo",
+        "id":13,
+        "nombre":"Crema Para el Cuerpo (Tododia)",
         "precio":"Oferta $3.200",
         "precioRevista":"Precio Revista $3.600",
         "descripcion":"400ml,(Repuesto),Te de Manzanilla y Lavanda",
@@ -140,8 +181,35 @@
 
     },
     {
-        "id":29,
-        "nombre":"Ekos Crema Para Manos",
+        "id":14,
+        "nombre":"Crema Para el Cuerpo (Ekos)",
+        "precio":"Oferta $5.000",
+        "precioRevista":"Precio Revista $6.000",
+        "descripcion":"400ml,(Repuesto),Maracuyá Hidrata Toda la Piels",
+        "imagen":"RepuestoMaracuya.png",
+        "categoria":"Cremas",
+        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20El%20Cuerpo%20Ekos%20Maracuya%20de%20$5.000%20De%20Natura"
+
+
+    },
+     {
+        "id":15,
+        "nombre":" Agua Prebiótica Para el Cuerpo (Tododia)",
+        "precio":"Oferta $3.500",
+        "precioRevista":"Precio Revista $3.900",
+        "descripcion":"150ml,Mango Rosa y Coco,Hidrata y Refresca la Piel Con Vitaminas E y B5",
+        "imagen":"AguaMango.png",
+        "categoria":"Cremas",
+        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Agua%20Prebiótica%20Tododia%20de%20$3.500%20De%20Natura"
+
+
+
+    },
+    {
+        "id":16,
+        "nombre":" Crema Para Manos (Ekos)",
         "precio":"Oferta $2.900",
         "precioRevista":"Precio Revista $3.900",
         "descripcion":"75g, Acaí",
@@ -153,8 +221,49 @@
 
 
     },
+    {
+        "id":17,
+        "nombre":" Gel Crema Antiseñales Chronos",
+        "precio":"Oferta $17.000",
+        "precioRevista":"Precio Revista $18.460",
+        "descripcion":"40g, Reduce Lineas de Expresion y Minimiza las Microtensiones de la Piel",
+        "imagen":"ChronosRenovacion.png",
+        "categoria":"Cremas",
+        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Chronosde%20$17.000%20De%20Natura"
+
+
+
+    },
+    {
+        "id":18,
+        "nombre":" Contorno de Ojos Serum Intensivo Chronos",
+        "precio":"Oferta $13.000",
+        "precioRevista":"Precio Revista $15.00",
+        "descripcion":"15ml, Reduce las Señales de Cansancio de la Piel,Suaviza Bolsas y Aclara Ojeras",
+        "imagen":"Serum.png",
+        "categoria":"Cremas",
+        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Contor%20de%20Ojos%20Serum%20Intensivo%20Chronos%20de%20$13.000%20De%20Natura"
+
+
+
+    },
+    {
+        "id":19,
+        "nombre":"Desodorante Roll On (Tododia)",
+        "precio":"Oferta $1.500",
+        "precioRevista":"Precio Revista $1.900",
+        "descripcion":"70ml,AntiTranspirante Mango Rosa y Coco",
+        "imagen":"MangoAnti.png",
+        "categoria":"Desodorantes",
+        "preferenceId":"71235705-1a02ef73-cdb7-4ab8-b7a6-fe54d4eff0fd",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Desodorante%20Roll-On%20$1.500%20De%20Natura"
+    
+
+    },
      {
-        "id":11,
+        "id":20,
         "nombre":"Lumina Shampoo",
         "precio":"Oferta $1.700",
         "precioRevista":"Precio Revista $2.745",
@@ -167,7 +276,7 @@
 
     },
     {
-        "id":41,
+        "id":21,
         "nombre":"Lumina Shampoo",
         "precio":"Oferta $1.700",
         "precioRevista":"Precio Revista $2.745",
@@ -180,7 +289,7 @@
 
     },
     {
-        "id":51,
+        "id":22,
         "nombre":"Lumina Acondionador",
         "precio":"Oferta $1.700",
         "precioRevista":"Precio Revista $2.745",
@@ -193,7 +302,7 @@
 
     },
     {
-        "id":12,
+        "id":23,
         "nombre":"Plant Acondicionador",
         "precio":"Oferta $1.500",
         "precioRevista":"Precio Revista $1.800",
@@ -207,7 +316,7 @@
 
     },
     {
-        "id":13,
+        "id":24,
         "nombre":"Plant Acondicionador",
         "precio":"Oferta $1.500",
         "precioRevista":"Precio Revista $1.800",
@@ -221,7 +330,7 @@
 
     },
     {
-        "id":14,
+        "id":25,
         "nombre":"Plant Acondicionador",
         "precio":"Oferta $1.500",
         "precioRevista":"Precio Revista $1.800",
