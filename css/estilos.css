@@ -1,5 +1,6 @@
 body {
     background-color: rgba(255, 255, 255, 0.952);
+    background-color: #f5f5f5;
 
 }
 
@@ -195,6 +196,7 @@ li:hover {
 }
 
 
+
 .img {
 
     height: 100px;
@@ -309,6 +311,7 @@ li:hover {
 
 .gradiante_footer {
     background: #ff6913;
+    background: linear-gradient(to right, #ff6600, #e74c3c);
 }
 
 .flex_footer_p_img {
@@ -334,15 +337,17 @@ li:hover {
 .img_whats {
     width: 65px;
     border-radius: 3cm;
+    border: 2px solid #fff;
 }
 
 .img_instagram {
     width: 52px;
     border-radius: 3cm;
+    border: 2px solid #fff;
 }
 
 .img_facebook {
-
+    border: 2px solid #fff;
     width: 55px;
     border-radius: 3cm;
 }

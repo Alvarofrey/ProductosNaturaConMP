@@ -55,20 +55,6 @@
 
     },
     {
-        "id":5,
-        "nombre":"Humor A Dois Masculino",
-        "precio":"Oferta $10.400",
-        "precioRevista":"Precio Revista $15.345",
-        "descripcion":"75ml,Moderado Pimienta Negra Amaderado Ambar",
-        "imagen":"HumorDois.png",
-        "categoria":"Perfumes",
-        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Humor%20Dois%Masculino%20de%20$10.400%20De%20Natura"
-    
-
-
-    },
-    {
         "id":6,
         "nombre":"Kaiak Vital Masculino",
         "precio":"Oferta $13.000",
@@ -193,20 +179,6 @@
 
 
     },
-     {
-        "id":15,
-        "nombre":" Agua Prebiótica Para el Cuerpo (Tododia)",
-        "precio":"Oferta $3.500",
-        "precioRevista":"Precio Revista $3.900",
-        "descripcion":"150ml,Mango Rosa y Coco,Hidrata y Refresca la Piel Con Vitaminas E y B5",
-        "imagen":"AguaMango.png",
-        "categoria":"Cremas",
-        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Agua%20Prebiótica%20Tododia%20de%20$3.500%20De%20Natura"
-
-
-
-    },
     {
         "id":16,
         "nombre":" Crema Para Manos (Ekos)",
@@ -217,33 +189,6 @@
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
         "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Manos%20Ekos%20de%20$2.900%20De%20Natura"
-
-
-
-    },
-    {
-        "id":17,
-        "nombre":" Gel Crema Antiseñales Chronos",
-        "precio":"Oferta $17.000",
-        "precioRevista":"Precio Revista $18.460",
-        "descripcion":"40g, Reduce Lineas de Expresion y Minimiza las Microtensiones de la Piel",
-        "imagen":"ChronosRenovacion.png",
-        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Chronosde%20$17.000%20De%20Natura"
-
-
-
-    },
-    {
-        "id":18,
-        "nombre":" Contorno de Ojos Serum Intensivo Chronos",
-        "precio":"Oferta $13.000",
-        "precioRevista":"Precio Revista $15.00",
-        "descripcion":"15ml, Reduce las Señales de Cansancio de la Piel,Suaviza Bolsas y Aclara Ojeras",
-        "imagen":"Serum.png",
-        
-        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Contor%20de%20Ojos%20Serum%20Intensivo%20Chronos%20de%20$13.000%20De%20Natura"
 
 
 
@@ -279,7 +224,7 @@
         "nombre":"Lumina Shampoo",
         "precio":"Oferta $1.700",
         "precioRevista":"Precio Revista $2.745",
-        "descripcion":"300ml,Repuesto,Estimulante AntiCaída y Crecimiento",
+        "descripcion":"300ml,Repuesto Estimulante AntiCaída y Crecimiento",
         "imagen":"LuminaAntiCaida.png",
         "categoria":"Shampoos & Acondicionadores",
         "preferenceId":"71235705-1a02ef73-cdb7-4ab8-b7a6-fe54d4eff0fd",
@@ -292,7 +237,7 @@
         "nombre":"Lumina Acondionador",
         "precio":"Oferta $1.700",
         "precioRevista":"Precio Revista $2.745",
-        "descripcion":"300ml,Repuesto,Estimulante AntiCaída y Crecimiento",
+        "descripcion":"300ml,Repuesto Estimulante AntiCaída y Crecimiento",
         "imagen":"LuminaAnti.png",
         "categoria":"Shampoos & Acondicionadores",
         "preferenceId":"71235705-1a02ef73-cdb7-4ab8-b7a6-fe54d4eff0fd",
@@ -333,7 +278,7 @@
         "nombre":"Plant Acondicionador",
         "precio":"Oferta $1.500",
         "precioRevista":"Precio Revista $1.800",
-        "descripcion":"300ml,Repuesto de Acondicionador, Hidrataciòn Reparadora, BioaminoÀcidos de Quinoa",
+        "descripcion":"300ml,Repuesto de Acondicionador Hidrataciòn Reparadora, BioaminoÀcidos de Quinoa",
         "imagen":"planthidratacion.png",
         "categoria":"Shampoos & Acondicionadores",
         "preferenceId":"71235705-1e31b1da-2b64-4ec2-98da-94287aab04e4",
