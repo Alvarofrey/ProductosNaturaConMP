@@ -7,18 +7,19 @@ body {
 
 
 h3 {
-    font-size: 19px;
+    font-size: 16px;
     color: black;
     font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h6 {
-    font-size: 17px;
+    font-size: 16x;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h5 {
-    font-size: 16px;
+    font-size: 15px;
 }
 
 #cantidadProductos {
