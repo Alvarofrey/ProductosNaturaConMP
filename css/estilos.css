@@ -1,29 +1,24 @@
 body {
     background-color: rgba(255, 255, 255, 0.952);
-    background-color: #f5f5f5;
+    background-color: #f0f0f0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
 
 h3 {
-    font-size: 17px;
+    font-size: 19px;
     color: black;
     font-weight: bold;
 }
 
 h6 {
-    font-size: 14px;
-    font-family: Verdana, Geneva, Tahoma, sans-serifs;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h5 {
     font-size: 16px;
-}
-
-.botoncarrito {
-    background-color: white;
-    border-spacing: 5px 5px;
-    border: 6px solid rgba(161, 161, 161, 0.281);
 }
 
 #cantidadProductos {
@@ -46,26 +41,10 @@ h5 {
     text-align: center;
 }
 
-.lista_carrito {
-    background-color: rgba(167, 167, 167, 0.514);
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-    align-items: center;
-    justify-content: space-evenly;
-    padding: 10px;
-    width: 135px;
-    height: 280px;
-    border-spacing: 15px 15px;
-    border: 5px solid rgba(161, 161, 161, 0.281);
-    text-align: center;
-
-
-}
 .boton__comprar {
     text-align: center;
     /* background-color: black; */
-    background-color: #ff6913;
+    background-color: #ff8c00;
     border-radius: 18px;
     /* color: rgb(5, 117, 5); */
     color: black;
@@ -74,25 +53,6 @@ h5 {
 
 }
 
-.btsumflex {
-    display: flex;
-    flex-direction: row;
-}
-
-.btnRestar,
-.btnSumar {
-    text-align: center;
-    background-color: #ff6913;
-    border-radius: 18px;
-    color: black;
-    font-size: 19px;
-    text-decoration: none;
-    height: 34px;
-    padding: 1px;
-    font-weight: bold;
-    width: 15px;
-
-}
 
 #categorias {
     list-style: none;
@@ -100,26 +60,26 @@ h5 {
 
 #btnTodos {
     text-align: center;
-    background-color: #ff6913;
+    background-color: #ff8c00;
     border-radius: 18px;
     color: black;
     font-size: 20px;
     text-decoration: none;
     height: 47px;
     font-weight: bold;
-    border: 3px solid rgb(0, 0, 0);
+    border: 3px solid #dddddd;
 }
 
 .btnCategoria {
     text-align: center;
-    background-color: #ff6913;
+    background-color: #ff8c00;
     border-radius: 18px;
     color: black;
     font-size: 20px;
     text-decoration: none;
     height: 47px;
     font-weight: bold;
-    border: 3px solid rgb(0, 0, 0);
+    border: 3px solid #dddddd;
 }
 
 .flexnav {
@@ -132,29 +92,10 @@ h5 {
     flex-wrap: wrap;
 }
 
-.svgcarrito {
-    fill: #ef7401;
-}
-
-.svg_tachobasura {
-    fill: black;
-}
-
-.btnQuitar,
-.btnAgregar {
-    text-align: center;
-    background-color: #ff6913;
-    border-radius: 18px;
-    color: black;
-    font-size: 16px;
-    text-decoration: none;
-    padding: 5px;
-    font-weight: bold;
-}
 
 .btnComprar {
     text-align: center;
-    background-color: #ff6913;
+    background-color: #ff8c00;
     border-radius: 18px;
     color: black;
     font-size: 21px;
@@ -178,11 +119,11 @@ h5 {
 }
 
 li:hover {
-    background-color: #ff6913;
+    background-color: #ff8c00;
 }
 
 .inputbuscador {
-    background-color: #ff6913;
+    background-color: #ff8c00;
     color: black;
     font-size: 23px;
     width: 380px;
@@ -200,24 +141,6 @@ li:hover {
 .img {
 
     height: 100px;
-}
-
-.flex_carrito {
-    margin: 10px;
-    padding-top: 50px;
-    display: flex;
-    justify-content: right;
-    gap: 40px;
-
-
-}
-
-#carrito {
-
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 10px;
 }
 
 #productos {
@@ -259,25 +182,10 @@ li:hover {
     text-decoration: line-through;
 }
 
-
-
-
-
-
-.carrito__main {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    justify-content: space-around;
-    font-size: 20px;
-
-
-}
-
 .div__logo {
     display: flex;
     justify-content: center;
-    background-color: #ff6913;
+    background-color: #ff8c00;
     text-align: center;
 
 
@@ -311,7 +219,7 @@ li:hover {
 
 .gradiante_footer {
     background: #ff6913;
-    background: linear-gradient(to right, #ff6600, #e74c3c);
+    background: linear-gradient(to right, #ff8c00, #e74c3c);
 }
 
 .flex_footer_p_img {

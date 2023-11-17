@@ -139,20 +139,6 @@
 
     },
     {
-        "id":12,
-        "nombre":"Crema Para el Cuerpo (Tododia)",
-        "precio":"Oferta $3.200",
-        "precioRevista":"Precio Revista $3.600",
-        "descripcion":"400ml,(Repuesto),Avellana y Casis",
-        "imagen":"RepuestoCremaAv.png",
-        "categoria":"Cremas",
-        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20De%20Pies%20Tododia%20de%20$1.400%20De%20Natura"
-
-
-
-    },
-    {
         "id":13,
         "nombre":"Crema Para el Cuerpo (Tododia)",
         "precio":"Oferta $3.200",
@@ -161,7 +147,7 @@
         "imagen":"CremaManzanilla.png",
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20De%20Pies%20Tododia%20de%20$1.400%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20El%20Cuerpo%20Tododia%20de%20$3.200%20De%20Natura"
 
 
 
