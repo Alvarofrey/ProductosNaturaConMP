@@ -44,13 +44,13 @@
      {
         "id":2,
         "nombre":"Kaiak Clásico Perfume Femenino",
-        "precio":"Oferta $13.000 ",
-        "precioRevista":"Precio Revista $16.400",
+        "precio":"Oferta $16.000 ",
+        "precioRevista":"Precio Revista $22.000",
         "descripcion":"<strong>Descripción:</strong> 100ml, Moderada Citrica Rosa",
         "imagen":"kaiakfem.png",
         "categoria":"Perfumes",
         "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Clásico%20(Fem)%20de%20$13.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Clásico%20(Fem)%20de%20$16.000%20De%20Natura"
     
 
 
@@ -58,7 +58,7 @@
         {
         "id":3,
         "nombre":"Pitanga Preta (Ekos) Perfume Femenino",
-        "precio":"Oferta $13.000 ",
+        "precio":"Oferta $14.000 ",
         "precioRevista":"Precio Revista $17.400",
         "descripcion":"<strong>Descripción:</strong> 150ml,Leve Floral Limon Pomelo Rosa y Musk",
         "imagen":"PitangaPreta.png",
@@ -72,13 +72,13 @@
     {
         "id":4,
         "nombre":"Kaiak Vital Femenino",
-        "precio":"Oferta $14.000",
+        "precio":"Oferta $16.000",
         "precioRevista":"Precio Revista $22.000",
         "descripcion":"<strong>Descripción:</strong> 100ml,Moderado Acorde Marino Lavanda Sándalo Jengibre Piper",
         "imagen":"KaiakVital.png",
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%20Femenino%20de%20$14.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%20Femenino%20de%20$16.000%20De%20Natura"
     
 
 
@@ -101,13 +101,13 @@
     {
         "id":6,
         "nombre":"Kaiak Vital Masculino",
-        "precio":"Oferta $14.000",
+        "precio":"Oferta $16.000",
         "precioRevista":"Precio Revista $21.000",
         "descripcion":"<strong>Descripción:</strong> 100ml,Moderado Algas Marinas Jengibre Piper",
         "imagen":"KaiakvitalMasculino.png",
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%20Masculino%20de%20$14.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%20Masculino%20de%20$16.000%20De%20Natura"
     
 
 
@@ -157,13 +157,13 @@
     {
         "id":9,
         "nombre":"Jabon Liquido Para Cuerpo Biografia",
-        "precio":"Oferta $2.300",
-        "precioRevista":"Precio Revista $2.500",
+        "precio":"Oferta $3.500",
+        "precioRevista":"Precio Revista $4.500",
         "descripcion":"<strong>Descripción:</strong> 100ml Jabon Liquido Femenino ",
         "imagen":"JabonBiografia.png",
         "categoria":"Jabones",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Jabon%20Liquido%20Biografia%20De%20$2.300%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Jabon%20Liquido%20Biografia%20De%20$3.500%20De%20Natura"
     
 
 
