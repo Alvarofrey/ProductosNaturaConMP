@@ -171,20 +171,6 @@
     {
         "id":13,
         "nombre":"Crema Para el Cuerpo (Tododia)",
-        "precio":"Oferta $3.200",
-        "precioRevista":"Precio Revista $3.600",
-        "descripcion":"<strong>Descripción:</strong> 400ml,(Repuesto),Te de Manzanilla y Lavanda",
-        "imagen":"CremaManzanilla.png",
-        "categoria":"Cremas",
-        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20El%20Cuerpo%20Tododia%20de%20$3.200%20De%20Natura"
-
-
-
-    },
-    {
-        "id":13,
-        "nombre":"Crema Para el Cuerpo (Tododia)",
         "precio":"Oferta $5.500",
         "precioRevista":"Precio Revista $6.600",
         "descripcion":"<strong>Descripción:</strong> 400ml,Hojas De Limón y Guanábana",
@@ -200,12 +186,25 @@
         "id":14,
         "nombre":"Crema Para el Cuerpo (Ekos)",
         "precio":"Oferta $5.000",
-        "precioRevista":"Precio Revista $6.000",
+        "precioRevista":"Precio Revista $7.000",
         "descripcion":"<strong>Descripción:</strong> 400ml,(Repuesto),Maracuyá Hidrata Toda la Piel",
         "imagen":"RepuestoMaracuya.png",
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
         "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20El%20Cuerpo%20Ekos%20Maracuya%20de%20$5.000%20De%20Natura"
+
+
+    },
+    {
+        "id":14,
+        "nombre":"Aceite Oleo Para el Cuerpo (Ekos)",
+        "precio":"Oferta $6.200",
+        "precioRevista":"Precio Revista $7.400",
+        "descripcion":"<strong>Descripción:</strong> 200ml,Realza el Bronceado",
+        "imagen":"Burti.png",
+        "categoria":"Cremas",
+        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Aceite%20Para%20El%20Cuerpo%20Ekos%20De%20$6.200%20De%20Natura"
 
 
     },
