@@ -17,23 +17,9 @@
         "id":2,
         "nombre":"AntiTranspirante Roll-On (Tododia)",
         "precio":"Oferta $1.800 ",
-        "precioRevista":"Precio Revista $16.400",
+        "precioRevista":"Precio Revista $2.400",
         "descripcion":"<strong>Descripción:</strong> 70ml, Aclarador 48hs Protección",
         "imagen":"Aclarar.png",
-        "categoria":"Desodorantes",
-        "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20De%20$1.800%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":2,
-        "nombre":"AntiTranspirante Roll-On (Tododia)",
-        "precio":"Oferta $1.800 ",
-        "precioRevista":"Precio Revista $16.400",
-        "descripcion":"<strong>Descripción:</strong> 70ml, Hojas de Limón y Guanabána 48hs Protección",
-        "imagen":"Limon.png",
         "categoria":"Desodorantes",
         "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
         "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20De%20$1.800%20De%20Natura"
@@ -64,7 +50,7 @@
         "imagen":"PitangaPreta.png",
         "categoria":"Perfumes",
         "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20PitangaPreta%20(Fem)%20de%20$13.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20PitangaPreta%20(Fem)%20de%20$14.000%20De%20Natura"
     
 
 
@@ -135,7 +121,7 @@
         "imagen":"JabonLimon.png",
         "categoria":"Jabones",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20De%20Flor%20De%20Hojas%20De%20Limón%20$3.300%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20Des%20Hojas%20De%20Limón%20$3.300%20De%20Natura"
     
 
 
@@ -169,20 +155,6 @@
 
     },
     {
-        "id":13,
-        "nombre":"Crema Para el Cuerpo (Tododia)",
-        "precio":"Oferta $5.500",
-        "precioRevista":"Precio Revista $6.600",
-        "descripcion":"<strong>Descripción:</strong> 400ml,Hojas De Limón y Guanábana",
-        "imagen":"CremaCuerpoLimon.png",
-        "categoria":"Cremas",
-        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20El%20Cuerpo%20Tododia%20de%20$5.500%20De%20Natura"
-
-
-
-    },
-    {
         "id":14,
         "nombre":"Crema Para el Cuerpo (Ekos)",
         "precio":"Oferta $5.000",
@@ -204,7 +176,7 @@
         "imagen":"Burti.png",
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Aceite%20Para%20El%20Cuerpo%20Ekos%20De%20$6.200%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Aceite%20Para%20El%20Cuerpo%20Ekos%20De%20$6.200%20De%20Natura"
 
 
     },
@@ -217,7 +189,7 @@
         "imagen":"CremaManosAcai.png",
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Manos%20Ekos%20de%204.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Manos%20Ekos%20de%20$4.000%20De%20Natura"
 
 
 
