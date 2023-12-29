@@ -2,13 +2,13 @@
     {
         "id":2,
         "nombre":"AntiTranspirante Roll-On (Tododia)",
-        "precio":"Oferta $1.800 ",
+        "precio":"Oferta $1.900 ",
         "precioRevista":"Precio Revista $2.400",
         "descripcion":"<strong>Descripción:</strong> 70ml, Leche de Algodón 48hs Protección",
         "imagen":"Leche.png",
         "categoria":"Desodorantes",
         "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20De%20$1.800%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20De%20$1.900%20De%20Natura"
     
 
 
@@ -16,13 +16,41 @@
     {
         "id":2,
         "nombre":"AntiTranspirante Roll-On (Tododia)",
-        "precio":"Oferta $1.800 ",
+        "precio":"Oferta $1.900 ",
         "precioRevista":"Precio Revista $2.400",
         "descripcion":"<strong>Descripción:</strong> 70ml, Aclarador 48hs Protección",
         "imagen":"Aclarar.png",
         "categoria":"Desodorantes",
         "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20De%20$1.800%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20De%20$1.900%20De%20Natura"
+    
+
+
+    },
+    {
+        "id":2,
+        "nombre":"AntiTranspirante Roll-On (Kaiak)",
+        "precio":"Oferta $1.900 ",
+        "precioRevista":"Precio Revista $2.400",
+        "descripcion":"<strong>Descripción:</strong> 75ml,Femenino Invisible Aclarador 48hs Protección",
+        "imagen":"AntiFemKaiak.png",
+        "categoria":"Desodorantes",
+        "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20De%20$1.900%20De%20Natura"
+    
+
+
+    },
+    {
+        "id":2,
+        "nombre":"AntiTranspirante Roll-On (Kaiak)",
+        "precio":"Oferta $1.900 ",
+        "precioRevista":"Precio Revista $2.400",
+        "descripcion":"<strong>Descripción:</strong> 75ml,Masculino Invisible ¡ Con Aroma Urbe!  48hs Protección",
+        "imagen":"AntiUrbe.png",
+        "categoria":"Desodorantes",
+        "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20Urbe%20De%20$1.900%20De%20Natura"
     
 
 
@@ -69,6 +97,20 @@
 
 
     },
+    {
+        "id":4,
+        "nombre":"Kaiak Océano Femenino",
+        "precio":"Oferta $16.000",
+        "precioRevista":"Precio Revista $22.000",
+        "descripcion":"<strong>Descripción:</strong> 100ml,Moderado Acorde Marino Floral Acuoso Sándalo",
+        "imagen":"OceFem.png",
+        "categoria":"Perfumes",
+        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Océano%20Femenino%20de%20$16.000%20De%20Natura"
+    
+
+
+    },
     
     {
         "id":4,
@@ -94,6 +136,20 @@
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
         "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%20Masculino%20de%20$16.000%20De%20Natura"
+    
+
+
+    },
+    {
+        "id":6,
+        "nombre":"Urbano Nox Masculino",
+        "precio":"Oferta $16.000",
+        "precioRevista":"Precio Revista $21.000",
+        "descripcion":"<strong>Descripción:</strong> 100ml,Moderado Herbal Jengibre Sándalo Mandarina",
+        "imagen":"nox.png",
+        "categoria":"Perfumes",
+        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Urbano%20Nox%20Masculino%20de%20$16.000%20De%20Natura"
     
 
 
@@ -169,6 +225,19 @@
     },
     {
         "id":14,
+        "nombre":"Crema Para el Cuerpo (Tododia)",
+        "precio":"Oferta $5.000",
+        "precioRevista":"Precio Revista $7.000",
+        "descripcion":"<strong>Descripción:</strong> 200ml,(Repuesto),Hojas de limón y Guanábana , Prebiótica e Hidrata Toda la Piel",
+        "imagen":"Lim200ml.png",
+        "categoria":"Cremas",
+        "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20El%20Cuerpo%20Tododia%20Limón%20de%20$5.000%20De%20Natura"
+
+
+    },
+    {
+        "id":14,
         "nombre":"Aceite Oleo Para el Cuerpo (Ekos)",
         "precio":"Oferta $6.200",
         "precioRevista":"Precio Revista $7.400",
@@ -220,6 +289,32 @@
         "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Manos%20Tododia%20De%20Uva%20de%20$2.500%20De%20Natura"
 
 
+
+    },
+    {
+        "id":20,
+        "nombre":"Lumina Shampoo",
+        "precio":"Oferta $3.300",
+        "precioRevista":"Precio Revista $3.745",
+        "descripcion":"<strong>Descripción:</strong> 220ml, Shampoo Revitalizante Cabello Expuesto Al Sol",
+        "imagen":"SolShampoo.png",
+        "categoria":"Shampoo & Acondicionador",
+        "preferenceId":"71235705-1a02ef73-cdb7-4ab8-b7a6-fe54d4eff0fd",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Shampoo%20Lumina%20Revitalizante%20De%20$3.300%20De%20Natura"
+    
+
+    },
+    {
+        "id":20,
+        "nombre":"Lumina Máscara Restauradora",
+        "precio":"Oferta $3.300",
+        "precioRevista":"Precio Revista $3.745",
+        "descripcion":"<strong>Descripción:</strong> 220ml, Máscara Restauradora Al Cabello Expuesto Al Sol",
+        "imagen":"MascaraSol.png",
+        "categoria":"Shampoo & Acondicionador",
+        "preferenceId":"71235705-1a02ef73-cdb7-4ab8-b7a6-fe54d4eff0fd",
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Máscara%20Restauradora20Lumina%20De%20$3.300%20De%20Natura"
+    
 
     },
      {
