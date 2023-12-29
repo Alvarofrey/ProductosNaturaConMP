@@ -30,13 +30,13 @@
     {
         "id":2,
         "nombre":"AntiTranspirante Roll-On (Kaiak)",
-        "precio":"Oferta $1.900 ",
-        "precioRevista":"Precio Revista $2.400",
+        "precio":"Oferta $2.100 ",
+        "precioRevista":"Precio Revista $2.600",
         "descripcion":"<strong>Descripción:</strong> 75ml,Femenino Invisible Aclarador 48hs Protección",
-        "imagen":"AntiFemKaiak.png",
+        "imagen":"AnFem.png",
         "categoria":"Desodorantes",
         "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20De%20$1.900%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20De%20$2.100%20De%20Natura"
     
 
 
@@ -44,13 +44,13 @@
     {
         "id":2,
         "nombre":"AntiTranspirante Roll-On (Kaiak)",
-        "precio":"Oferta $1.900 ",
-        "precioRevista":"Precio Revista $2.400",
+        "precio":"Oferta $2.100 ",
+        "precioRevista":"Precio Revista $2.600",
         "descripcion":"<strong>Descripción:</strong> 75ml,Masculino Invisible ¡ Con Aroma Urbe!  48hs Protección",
         "imagen":"AntiUrbe.png",
         "categoria":"Desodorantes",
         "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20Urbe%20De%20$1.900%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20Urbe%20De%20$2.100%20De%20Natura"
     
 
 
@@ -58,13 +58,13 @@
      {
         "id":2,
         "nombre":"Kaiak Clásico Perfume Femenino",
-        "precio":"Oferta $16.000 ",
-        "precioRevista":"Precio Revista $22.000",
+        "precio":"Oferta $23.000 ",
+        "precioRevista":"Precio Revista $31.800",
         "descripcion":"<strong>Descripción:</strong> 100ml, Moderada Citrica Rosa",
         "imagen":"kaiakfem.png",
         "categoria":"Perfumes",
         "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Clásico%20(Fem)%20de%20$16.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Clásico%20(Fem)%20de%20$23.000%20De%20Natura"
     
 
 
@@ -72,13 +72,13 @@
         {
         "id":3,
         "nombre":"Pitanga Preta (Ekos) Perfume Femenino",
-        "precio":"Oferta $14.000 ",
-        "precioRevista":"Precio Revista $17.400",
+        "precio":"Oferta $17.000 ",
+        "precioRevista":"Precio Revista $23.100",
         "descripcion":"<strong>Descripción:</strong> 150ml,Leve Floral Limon Pomelo Rosa y Musk",
         "imagen":"PitangaPreta.png",
         "categoria":"Perfumes",
         "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20PitangaPreta%20(Fem)%20de%20$14.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20PitangaPreta%20(Fem)%20de%20$17.000%20De%20Natura"
     
 
 
@@ -86,13 +86,13 @@
     {
         "id":4,
         "nombre":"Kaiak Vital Femenino",
-        "precio":"Oferta $16.000",
-        "precioRevista":"Precio Revista $22.000",
+        "precio":"Oferta $23.000 ",
+        "precioRevista":"Precio Revista $31.800",
         "descripcion":"<strong>Descripción:</strong> 100ml,Moderado Acorde Marino Lavanda Sándalo Jengibre Piper",
         "imagen":"KaiakVital.png",
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%20Femenino%20de%20$16.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%20Femenino%20de%20$23.000%20De%20Natura"
     
 
 
@@ -100,13 +100,13 @@
     {
         "id":4,
         "nombre":"Kaiak Océano Femenino",
-        "precio":"Oferta $16.000",
-        "precioRevista":"Precio Revista $22.000",
+        "precio":"Oferta $23.000 ",
+        "precioRevista":"Precio Revista $31.800",
         "descripcion":"<strong>Descripción:</strong> 100ml,Moderado Acorde Marino Floral Acuoso Sándalo",
         "imagen":"OceFem.png",
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Océano%20Femenino%20de%20$16.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Océano%20Femenino%20de%20$23.000%20De%20Natura"
     
 
 
@@ -115,13 +115,13 @@
     {
         "id":4,
         "nombre":"Humor Propio Femenino",
-        "precio":"Oferta $15.000",
-        "precioRevista":"Precio Revista $20.000",
+        "precio":"Oferta $18.300",
+        "precioRevista":"Precio Revista $30.500",
         "descripcion":"<strong>Descripción:</strong> 75ml,Moderado Notas Florales y Fondo Dulce",
         "imagen":"HumorPropio.png",
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Humor%20Propio%20Femenino%20de%20$15.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Humor%20Propio%20Femenino%20de%20$18.300%20De%20Natura"
     
 
 
@@ -129,13 +129,13 @@
     {
         "id":6,
         "nombre":"Kaiak Vital Masculino",
-        "precio":"Oferta $16.000",
-        "precioRevista":"Precio Revista $21.000",
+        "precio":"Oferta $23.000 ",
+        "precioRevista":"Precio Revista $31.800",
         "descripcion":"<strong>Descripción:</strong> 100ml,Moderado Algas Marinas Jengibre Piper",
         "imagen":"KaiakvitalMasculino.png",
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%20Masculino%20de%20$16.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%20Masculino%20de%20$23.000%20De%20Natura"
     
 
 
@@ -143,13 +143,13 @@
     {
         "id":6,
         "nombre":"Urbano Nox Masculino",
-        "precio":"Oferta $16.000",
-        "precioRevista":"Precio Revista $21.000",
+        "precio":"Oferta $18.000",
+        "precioRevista":"Precio Revista $26.700",
         "descripcion":"<strong>Descripción:</strong> 100ml,Moderado Herbal Jengibre Sándalo Mandarina",
         "imagen":"nox.png",
         "categoria":"Perfumes",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Urbano%20Nox%20Masculino%20de%20$16.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Urbano%20Nox%20Masculino%20de%20$18.000%20De%20Natura"
     
 
 
@@ -157,13 +157,13 @@
     {
         "id":8,
         "nombre":"Jabones (Tododia)",
-        "precio":"Oferta $3.300",
-        "precioRevista":"Precio Revista $3.800",
+        "precio":"Oferta $3.900",
+        "precioRevista":"Precio Revista $4.800",
         "descripcion":"<strong>Descripción:</strong> 5u/90g c/u, Flor de Lis",
         "imagen":"JabonFlor.png",
         "categoria":"Jabones",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20De%20Flor%20De%20Lis%20De%20$3.300%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20De%20Flor%20De%20Lis%20De%20$3.900%20De%20Natura"
     
 
 
@@ -171,13 +171,13 @@
     {
         "id":8,
         "nombre":"Jabones (Tododia)",
-        "precio":"Oferta $3.300",
-        "precioRevista":"Precio Revista $3.800",
+        "precio":"Oferta $3.900",
+        "precioRevista":"Precio Revista $4.800",
         "descripcion":"<strong>Descripción:</strong> 5u/90g c/u, Hojas de Limón y Guanábana",
         "imagen":"JabonLimon.png",
         "categoria":"Jabones",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20Des%20Hojas%20De%20Limón%20$3.300%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20Des%20Hojas%20De%20Limón%20$3.900%20De%20Natura"
     
 
 
@@ -185,13 +185,13 @@
     {
         "id":9,
         "nombre":"Jabones (Tododia)",
-        "precio":"Oferta $3.300",
-        "precioRevista":"Precio Revista $3.800",
+        "precio":"Oferta $3.900",
+        "precioRevista":"Precio Revista $4.800",
         "descripcion":"<strong>Descripción:</strong> 5u/90g c/u, Frutas Rojas",
         "imagen":"JabonFrutas.png",
         "categoria":"Jabones",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20De%20Frutas%20Rojas%20De%20$3.300%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20De%20Frutas%20Rojas%20De%20$3.900%20De%20Natura"
     
 
 
@@ -199,13 +199,13 @@
     {
         "id":9,
         "nombre":"Jabon Liquido Para Cuerpo Biografia",
-        "precio":"Oferta $3.500",
-        "precioRevista":"Precio Revista $4.500",
+        "precio":"Oferta $4.500",
+        "precioRevista":"Precio Revista $5.500",
         "descripcion":"<strong>Descripción:</strong> 100ml Jabon Liquido Femenino ",
         "imagen":"JabonBiografia.png",
         "categoria":"Jabones",
         "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Jabon%20Liquido%20Biografia%20De%20$3.500%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Jabon%20Liquido%20Biografia%20De%20$4.500%20De%20Natura"
     
 
 
@@ -239,26 +239,26 @@
     {
         "id":14,
         "nombre":"Aceite Oleo Para el Cuerpo (Ekos)",
-        "precio":"Oferta $6.200",
-        "precioRevista":"Precio Revista $7.400",
+        "precio":"Oferta $7.200",
+        "precioRevista":"Precio Revista $8.400",
         "descripcion":"<strong>Descripción:</strong> 200ml,Realza el Bronceado",
         "imagen":"Burti.png",
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Aceite%20Para%20El%20Cuerpo%20Ekos%20De%20$6.200%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Aceite%20Para%20El%20Cuerpo%20Ekos%20De%20$7.200%20De%20Natura"
 
 
     },
     {
         "id":16,
         "nombre":" Crema Para Manos (Ekos)",
-        "precio":"Oferta $4.000",
-        "precioRevista":"Precio Revista $5.900",
+        "precio":"Oferta $5.000",
+        "precioRevista":"Precio Revista $6.900",
         "descripcion":"<strong>Descripción:</strong> 75g, Acaí",
         "imagen":"CremaManosAcai.png",
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Manos%20Ekos%20de%20$4.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Manos%20Ekos%20de%20$5.000%20De%20Natura"
 
 
 
@@ -266,13 +266,13 @@
     {
         "id":16,
         "nombre":" Crema Para Manos (Ekos)",
-        "precio":"Oferta $4.000",
-        "precioRevista":"Precio Revista $5.900",
+        "precio":"Oferta $5.000",
+        "precioRevista":"Precio Revista $6.900",
         "descripcion":"<strong>Descripción:</strong> 75g, Pitanga",
         "imagen":"EkosCremaPitanga.png",
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Manos%20Ekos%20de%20$4.000%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Manos%20Ekos%20de%20$5.000%20De%20Natura"
 
 
 
@@ -280,13 +280,13 @@
     {
         "id":16,
         "nombre":" Crema Para Manos (Tododia)",
-        "precio":"Oferta $2.500",
+        "precio":"Oferta $3.000",
         "precioRevista":"Precio Revista $4.000",
         "descripcion":"<strong>Descripción:</strong> 75g, Uva Rosada y Granada",
         "imagen":"CremaUva.png",
         "categoria":"Cremas",
         "preferenceId":"71235705-671f0649-0240-4628-9d3a-2a4f5d5f0c47",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Manos%20Tododia%20De%20Uva%20de%20$2.500%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20La%20Crema%20Para%20Manos%20Tododia%20De%20Uva%20de%20$3.000%20De%20Natura"
 
 
 
@@ -295,7 +295,7 @@
         "id":20,
         "nombre":"Lumina Shampoo",
         "precio":"Oferta $3.300",
-        "precioRevista":"Precio Revista $3.745",
+        "precioRevista":"Precio Revista $4.145",
         "descripcion":"<strong>Descripción:</strong> 220ml, Shampoo Revitalizante Cabello Expuesto Al Sol",
         "imagen":"SolShampoo.png",
         "categoria":"Shampoo & Acondicionador",
@@ -308,7 +308,7 @@
         "id":20,
         "nombre":"Lumina Máscara Restauradora",
         "precio":"Oferta $3.300",
-        "precioRevista":"Precio Revista $3.745",
+        "precioRevista":"Precio Revista $4.145",
         "descripcion":"<strong>Descripción:</strong> 220ml, Máscara Restauradora Al Cabello Expuesto Al Sol",
         "imagen":"MascaraSol.png",
         "categoria":"Shampoo & Acondicionador",
@@ -320,26 +320,26 @@
      {
         "id":20,
         "nombre":"Lumina Shampoo",
-        "precio":"Oferta $1.700",
-        "precioRevista":"Precio Revista $2.745",
+        "precio":"Oferta $2.700",
+        "precioRevista":"Precio Revista $3.745",
         "descripcion":"<strong>Descripción:</strong> 300ml,Repuesto,Lisos Naturales,Purifica",
         "imagen":"luminashampoo.png",
         "categoria":"Shampoo & Acondicionador",
         "preferenceId":"71235705-1a02ef73-cdb7-4ab8-b7a6-fe54d4eff0fd",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20Lumina%20de%20Lisos%20Purificante%20$1.700%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20Lumina%20de%20Lisos%20Purificante%20$2.700%20De%20Natura"
     
 
     },
     {
         "id":22,
         "nombre":"Lumina Acondionador",
-        "precio":"Oferta $1.700",
-        "precioRevista":"Precio Revista $2.745",
+        "precio":"Oferta $2.700",
+        "precioRevista":"Precio Revista $3.745",
         "descripcion":"<strong>Descripción:</strong> 300ml Repuesto, Estimulante AntiCaída y Crecimiento",
         "imagen":"LuminaAnti.png",
         "categoria":"Shampoo & Acondicionador",
         "preferenceId":"71235705-1a02ef73-cdb7-4ab8-b7a6-fe54d4eff0fd",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20Acondicionador%20Lumina%20de%20AntiCaida%20Y%20Crecimiento%20$1.700%20De%20Natura"
+        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20el%20Repuesto%20Acondicionador%20Lumina%20de%20AntiCaida%20Y%20Crecimiento%20$2.700%20De%20Natura"
     
 
     }
