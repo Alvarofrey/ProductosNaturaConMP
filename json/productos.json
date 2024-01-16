@@ -15,20 +15,6 @@
     },
     {
         "id":2,
-        "nombre":"AntiTranspirante Roll-On (Tododia)",
-        "precio":"Oferta $1.900 ",
-        "precioRevista":"Precio Revista $2.400",
-        "descripcion":"<strong>Descripción:</strong> 70ml, Aclarador 48hs Protección",
-        "imagen":"Aclarar.png",
-        "categoria":"Desodorantes",
-        "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20De%20$1.900%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":2,
         "nombre":"AntiTranspirante Roll-On (Kaiak)",
         "precio":"Oferta $2.100 ",
         "precioRevista":"Precio Revista $2.600",
@@ -37,20 +23,6 @@
         "categoria":"Desodorantes",
         "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
         "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20De%20$2.100%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":2,
-        "nombre":"AntiTranspirante Roll-On (Kaiak)",
-        "precio":"Oferta $2.100 ",
-        "precioRevista":"Precio Revista $2.600",
-        "descripcion":"<strong>Descripción:</strong> 75ml,Masculino Invisible ¡ Con Aroma Urbe!  48hs Protección",
-        "imagen":"AntiUrbe.png",
-        "categoria":"Desodorantes",
-        "preferenceId":"71235705-f31174e3-1c39-445b-bec1-ab5b5a9fafd0",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Antitranspirante%20Urbe%20De%20$2.100%20De%20Natura"
     
 
 
@@ -111,21 +83,6 @@
 
 
     },
-    
-    {
-        "id":4,
-        "nombre":"Humor Propio Femenino",
-        "precio":"Oferta $18.300",
-        "precioRevista":"Precio Revista $30.500",
-        "descripcion":"<strong>Descripción:</strong> 75ml,Moderado Notas Florales y Fondo Dulce",
-        "imagen":"HumorPropio.png",
-        "categoria":"Perfumes",
-        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Humor%20Propio%20Femenino%20de%20$18.300%20De%20Natura"
-    
-
-
-    },
     {
         "id":6,
         "nombre":"Kaiak Vital Masculino",
@@ -154,48 +111,9 @@
 
 
     },
-    {
-        "id":8,
-        "nombre":"Jabones (Tododia)",
-        "precio":"Oferta $3.900",
-        "precioRevista":"Precio Revista $4.800",
-        "descripcion":"<strong>Descripción:</strong> 5u/90g c/u, Flor de Lis",
-        "imagen":"JabonFlor.png",
-        "categoria":"Jabones",
-        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20De%20Flor%20De%20Lis%20De%20$3.900%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":8,
-        "nombre":"Jabones (Tododia)",
-        "precio":"Oferta $3.900",
-        "precioRevista":"Precio Revista $4.800",
-        "descripcion":"<strong>Descripción:</strong> 5u/90g c/u, Hojas de Limón y Guanábana",
-        "imagen":"JabonLimon.png",
-        "categoria":"Jabones",
-        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20Des%20Hojas%20De%20Limón%20$3.900%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":9,
-        "nombre":"Jabones (Tododia)",
-        "precio":"Oferta $3.900",
-        "precioRevista":"Precio Revista $4.800",
-        "descripcion":"<strong>Descripción:</strong> 5u/90g c/u, Frutas Rojas",
-        "imagen":"JabonFrutas.png",
-        "categoria":"Jabones",
-        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20Los%20Jabones%20Tododia%20De%20Frutas%20Rojas%20De%20$3.900%20De%20Natura"
-    
-
-
-    },
+   
+   
+   
     {
         "id":9,
         "nombre":"Jabon Liquido Para Cuerpo Biografia",
