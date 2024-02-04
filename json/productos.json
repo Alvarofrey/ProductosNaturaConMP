@@ -70,34 +70,6 @@
 
     },
     {
-        "id":4,
-        "nombre":"Kaiak Océano Femenino",
-        "precio":"Oferta $23.000 ",
-        "precioRevista":"Precio Revista $31.800",
-        "descripcion":"<strong>Descripción:</strong> 100ml,Moderado Acorde Marino Floral Acuoso Sándalo",
-        "imagen":"OceFem.png",
-        "categoria":"Perfumes",
-        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Océano%20Femenino%20de%20$23.000%20De%20Natura"
-    
-
-
-    },
-    {
-        "id":6,
-        "nombre":"Kaiak Vital Masculino",
-        "precio":"Oferta $23.000 ",
-        "precioRevista":"Precio Revista $31.800",
-        "descripcion":"<strong>Descripción:</strong> 100ml,Moderado Algas Marinas Jengibre Piper",
-        "imagen":"KaiakvitalMasculino.png",
-        "categoria":"Perfumes",
-        "preferenceId":"191533156-43899cdf-d81d-4465-9de4-af9d7038ed13",
-        "enlace": "https://wa.me/5493413660370?text=Hola%20Quiero%20Comprar%20El%20Perfume%20Kaiak%20Vital%20Masculino%20de%20$23.000%20De%20Natura"
-    
-
-
-    },
-    {
         "id":6,
         "nombre":"Urbano Nox Masculino",
         "precio":"Oferta $18.000",
@@ -111,9 +83,6 @@
 
 
     },
-   
-   
-   
     {
         "id":9,
         "nombre":"Jabon Liquido Para Cuerpo Biografia",
